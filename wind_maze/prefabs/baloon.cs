@@ -7,6 +7,7 @@ namespace wind_maze
 	{
 		public baloon ()
 		{
+			var aaa = "string";
 		}
 	}
 }
